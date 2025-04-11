@@ -114,6 +114,7 @@ Tested effects of:
 ---
 
 ## 📈 Evaluation Metrics
+
 Temporal Accuracy: Time delta between predicted and true event position
 
 Similarity Peak: Strength of template match
@@ -123,6 +124,7 @@ Noise Robustness: Detection under variable SNR levels
 ---
 
 📢 Citation & Acknowledgments
+
 ESC-50 Dataset: https://github.com/karoldvl/ESC-50
 
 MATLAB Online: https://matlab.mathworks.com
@@ -135,5 +137,28 @@ Institution: INSAT – Institut National des Sciences Appliquées et de Technolo
 
 ---
 
+## 📌 License
 
+This repository is a part of the academic coursework at INSAT.
+Usage of the code, figures, or content for external/publication purposes is strictly prohibited without prior authorization from the authors or supervisors.
+
+---
+
+## 🗓️ Completion Date
+
+April 10, 2025
+INSAT RT3 - Signal Processing Lab
+
+---
+
+## 📫 Contact
+
+For academic inquiries:
+
+Chouchane Omar   · omar.chouchane@insat.ucar.tn
+Karoui Bochra    · bochra.karoui@insat.ucar.tn    
+Khemiri Sahar    · sahar.khemiri@insat.ucar.tn
+
+
+---
 
